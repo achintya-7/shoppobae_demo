@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "916098567024",
+    "project_id": "shoppabae-demo",
+    "storage_bucket": "shoppabae-demo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:916098567024:android:5470d1e7c866db83ccddb5",
+        "android_client_info": {
+          "package_name": "com.example.shoppobae_demo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "916098567024-99m49il0ut8n699j0ftne32s1015g8ms.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAW73oszff4AbBZym7ahy6CrX5olBTioz0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "916098567024-99m49il0ut8n699j0ftne32s1015g8ms.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
