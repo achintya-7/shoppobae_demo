@@ -10,3 +10,6 @@ The video is made in such a way to show how adding products will reflect upon th
 This video shows how the app flows when a new user SignUp as a seller.
 
 ![Internship3](https://user-images.githubusercontent.com/67036708/172567393-4f760556-bb9f-4e4a-bd2a-e57bf2c3f0e5.gif)
+
+## Note
+If we reload the app, it will open in either Customer Home Page and Seller Home Page according to the last sign in.
